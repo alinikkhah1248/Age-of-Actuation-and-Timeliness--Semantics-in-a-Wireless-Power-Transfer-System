@@ -1,2 +1,2 @@
 # TCOM
-MATLAB Codes for a Journal Paper
+MATLAB Codes for an Accepted Journal Paper in IEEE Transactions on Communications
